@@ -11,26 +11,26 @@ Interfaz elegante en verde y negro con animaciones suaves, partículas dinámica
 
 ## 2. Motor de Detección Avanzado (50+ Patrones)
 
-### Vulnerabilidades Críticas
-- Reentrancy Attacks: Detección de llamadas externas maliciosas
-- Honeypot Detection: Bloqueo de transferencias malicioso
-- Rug Pull Analysis: Manipulación de ownership y tokens
-- Flash Loan Attacks: Explotación de préstamos flash
-- Backdoor Functions: Funciones ocultas y acceso no autorizado
+Vulnerabilidades Críticas
+Reentrancy Attacks: Detección de llamadas externas maliciosas
+Honeypot Detection: Bloqueo de transferencias malicioso
+Rug Pull Analysis: Manipulación de ownership y tokens
+Flash Loan Attacks: Explotación de préstamos flash
+Backdoor Functions: Funciones ocultas y acceso no autorizado
 
-### Patrones de Alto Riesgo
-- MEV Manipulation: Front-running y sandwich attacks
-- Unlimited Mint: Creación infinita de tokens
-- Blacklist Functions: Listas negras y exclusiones
-- Proxy Vulnerabilities: Ataques a contratos proxy
-- Upgradeability Issues: Patrones de actualización inseguros
+Patrones de Alto Riesgo
+MEV Manipulation: Front-running y sandwich attacks
+Unlimited Mint: Creación infinita de tokens
+Blacklist Functions: Listas negras y exclusiones
+Proxy Vulnerabilities: Ataques a contratos proxy
+Upgradeability Issues: Patrones de actualización inseguros
 
-### Análisis Comportamental
-- Gas Anomalies: Patrones de consumo anómalos
-- Timestamp Dependency: Manipulación de timestamps
-- ERC20 Violations: Incumplimientos del estándar
-- NFT Vulnerabilities: Ataques específicos a NFTs
-- DeFi Exploits: Vulnerabilidades en protocolos DeFi
+Análisis Comportamental
+Gas Anomalies: Patrones de consumo anómalos
+Timestamp Dependency: Manipulación de timestamps
+ERC20 Violations: Incumplimientos del estándar
+NFT Vulnerabilities: Ataques específicos a NFTs
+DeFi Exploits: Vulnerabilidades en protocolos DeFi
 
 ## 3. Machine Learning Integration
 
@@ -90,25 +90,25 @@ Multi-user support, role-based access, audit trails y compliance reporting.
 
 ## Comparación: Antes vs Después
 
-### Versión Rust (Antes)
-- Interfaz: Línea de comandos básica
-- Detección: ~20 patrones básicos
-- Instalación: Compleja, requiere Rust toolchain
-- Distribución: Compilación manual necesaria
-- Documentación: Mínima
-- ML: No disponible
-- Blockchain: Sin integración
-- Reporting: Solo texto plano
+Versión Rust (Antes)
+Interfaz: Línea de comandos básica
+Detección: ~20 patrones básicos
+Instalación: Compleja, requiere Rust toolchain
+Distribución: Compilación manual necesaria
+Documentación: Mínima
+ML: No disponible
+Blockchain: Sin integración
+Reporting: Solo texto plano
 
-### Versión Python Dark Mode (Ahora)
-- Interfaz: GUI Dark Mode profesional con animaciones
-- Detección: 50+ patrones avanzados + ML
-- Instalación: Script automático + ejecutable
-- Distribución: Ejecutable standalone
-- Documentación: Completa y profesional
-- ML: Clasificación inteligente con confidence scoring
-- Blockchain: Integración real con Etherscan/BscScan
-- Reporting: PDF, HTML, JSON, XML con gráficos
+Versión Python Dark Mode (Ahora)
+Interfaz: GUI Dark Mode profesional con animaciones
+Detección: 50+ patrones avanzados + ML
+Instalación: Script automático + ejecutable
+Distribución: Ejecutable standalone
+Documentación: Completa y profesional
+ML: Clasificación inteligente con confidence scoring
+Blockchain: Integración real con Etherscan/BscScan
+Reporting: PDF, HTML, JSON, XML con gráficos
 
 ## Impacto y Beneficios
 
